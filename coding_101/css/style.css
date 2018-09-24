@@ -1,0 +1,66 @@
+body {
+  background-color: white;
+  color: black;
+  font-family:sans-serif;
+}
+
+p{
+  margin-left: 10px;
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+}
+
+h2{
+  font-size: 36px;
+  font-family: impact, charcoal, sans-serif;
+  letter-spacing: 1px;
+  padding: 5px;
+  border-bottom: 4px solid #cce6ff;
+  border-top: 4px solid #cce6ff;
+}
+
+h3{
+  margin-top: 35px;
+  text-decoration: underline;
+
+}
+
+h4{
+  color:  #80bfff;
+  margin: 1px 40px 1px 40px;
+
+li{
+  padding: 4px;
+}
+
+}
+
+img{
+  height: 200px;
+  margin-left: 20px;
+}
+
+
+.centerimg {
+  display: block;
+  margin: 0 auto;
+  height: 350px;
+}
+
+
+.localfaves {
+  margin: 1px 100px 1px 100px;
+  color: red;
+}
+
+.favelist {
+  margin: 1px 150px 1px 100px;
+  }
+
+.bottomlink {
+  display: inline-block;
+  margin: 30px 10px 30px 10px;
+}
